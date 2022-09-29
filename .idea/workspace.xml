@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6781bf8b-1953-4b7f-bd02-4925e3ec0f9f" name="Changes" comment="29 09 2022">
+    <list default="true" id="6781bf8b-1953-4b7f-bd02-4925e3ec0f9f" name="Changes" comment="29 09 2022-2part">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArrayPosNeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArrayTwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArraySecondSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArraySecondSmallest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +43,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArraySecondSmallest">
+  <component name="RunManager" selected="Application.ArrayTwoSum">
     <configuration name="ArrayDublicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson2.HomWork.ArrayDublicate" />
+      <module name="Cycles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson2.HomWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayPosNeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.HomWork.ArrayPosNeg" />
       <module name="Cycles" />
       <extension name="coverage">
         <pattern>
@@ -82,25 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.ArrayType" />
+    <configuration name="ArrayTwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.HomWork.ArrayTwoSum" />
       <module name="Cycles" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.Arrays" />
-      <module name="Cycles" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="lesson2.HomWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayTwoSum" />
+        <item itemvalue="Application.ArrayPosNeg" />
         <item itemvalue="Application.ArraySecondSmallest" />
         <item itemvalue="Application.ArrayDublicate" />
         <item itemvalue="Application.ArrayReverse" />
-        <item itemvalue="Application.Arrays" />
-        <item itemvalue="Application.ArrayType" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664433980415</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="29 09 2022-2part">
+      <created>1664435424299</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664435424299</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,7 +174,8 @@
     <MESSAGE value="lesson 1" />
     <MESSAGE value="24 09 2022" />
     <MESSAGE value="29 09 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="29 09 2022" />
+    <MESSAGE value="29 09 2022-2part" />
+    <option name="LAST_COMMIT_MESSAGE" value="29 09 2022-2part" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
