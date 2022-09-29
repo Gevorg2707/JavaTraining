@@ -23,16 +23,14 @@ public class ArraySecondSmallest {
             System.out.println("arr[" + i + "]=  " + arr[i]);
         }
         smallestEl=arr[0];
-        for (int i = 1; i < arr.length; i++) {
-            if(smallestEl<arr[i])
-                continue;
-            else smallestEl=arr[i];
-        }
-        secondSmallestEl=arr[0];
         for (int i = 0; i < arr.length; i++) {
-          if(secondSmallestEl<arr[i]&secondSmallestEl!=smallestEl)
+            if(arr[i]<smallestEl)
+                smallestEl=arr[i];
+        }
+        secondSmallestEl=arr[arr.length-1];
+        for (int i = 0; i < arr.length; i++) {
+          if(secondSmallestEl>arr[i]&&arr[i]>smallestEl)
                 secondSmallestEl=arr[i];
-            else secondSmallestEl=arr[i];
         }
         System.out.println("smallestEl = " + smallestEl);
         System.out.println("secondSmallestEl = " + secondSmallestEl);

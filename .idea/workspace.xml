@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6781bf8b-1953-4b7f-bd02-4925e3ec0f9f" name="Changes" comment="24 09 2022">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/Triangle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArrayAddValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArrayAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArrayDublicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArrayIndexElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArrayMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArrayNesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArrayRemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArrayReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArraySecondSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArraySpecefic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/ArrayType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Arrays.java" afterDir="false" />
+    <list default="true" id="6781bf8b-1953-4b7f-bd02-4925e3ec0f9f" name="Changes" comment="29 09 2022">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/Triangle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Triangle1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArraySecondSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/HomWork/ArraySecondSmallest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664045659531</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="29 09 2022">
+      <created>1664433980415</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664433980415</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,7 +165,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson 1" />
     <MESSAGE value="24 09 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="24 09 2022" />
+    <MESSAGE value="29 09 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="29 09 2022" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
