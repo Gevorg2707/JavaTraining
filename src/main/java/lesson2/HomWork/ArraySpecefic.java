@@ -27,13 +27,9 @@ public class ArraySpecefic {
                 System.out.println("The Array contains a specefic value: ");
                 System.out.println("The index of specefic value is= " + i);
                 break;
+            } else {
+                ifElse=false;
             }
-            ifElse=false;
         }
-        if (ifElse == false) {
-           System.out.println("Our Array don't contain specefic value");
-
-        }
-
     }
 }
