@@ -23,7 +23,6 @@ public class Triangle1 {
                 else System.out.println(" ");
             }
             k=0;
-//            System.out.print("k=" + k);
         }
     }
 }
